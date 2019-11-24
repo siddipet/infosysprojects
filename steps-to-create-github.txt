@@ -1,5 +1,5 @@
 cmd:>git
 it show git is not installed
 2)create the github(github.com) account and then crete a repository in github ex infosysprojects
-3)create the file -->wirte
+3)create the file -->steps-to-create-github.txt
 4)Commit directly to the master branch.
